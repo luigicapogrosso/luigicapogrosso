@@ -6,6 +6,6 @@
 
 📌 I had the privilege of being a visiting scholar at the Pattern Recognition and Automatic Learning Lab at Istituto Superior Técnico, headed by Prof. Mário A. T. Figueiredo.
 
-📚 My research interests cover the broad area of deep learning, and the main topics I am currently working on can be grouped into the classes of efficient deep learning and representation learning.
+📚 My research interests cover the broad area of deep learning, and the main topics I am currently working on can be grouped into the classes of deep learning-enabled cyber-physical systems and representation learning.
 
 📄 Check out all my publications on [Google Scholar](https://scholar.google.com/citations?user=sVTnbPYAAAAJ&hl=en)!
